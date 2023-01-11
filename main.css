@@ -1,3 +1,10 @@
 body {
   background-color: blanchedalmond;
 }
+img {
+  border-radius: 100%;
+}
+.d-grid {
+  display: flex;
+  justify-content: center;
+}
